@@ -20,7 +20,7 @@ Only about 10,000 of the 2.6 million collected reviews on pet products were part
 
 Based on our results below, 0.26% of the total 5-star ratings were Vine program reviews while 99% were not part of the program. If we take a look at the larger dataset, about .3% (10215/2643619) of the total reviews were part of the vine program, thus we would expect roughly .3% of the 5-star ratings to also be part of the program. Extremely close!
 
-![Figure 1](Resources/anlysis.png)
+![Figure 1](Resources/analysis.png)
 
 In order to determine if this bias truly exists or does not exist, we recommend reviewing a variety of datasets, as there may be more likelihood for other products to generate positivity bias among paid reviews.
 
